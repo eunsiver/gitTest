@@ -1,9 +1,7 @@
 I see you.
 I spy you.
-<<<<<<< HEAD
 i like you.
 I forgot you.
-=======
 I like you.
 I love you.
->>>>>>> 1b14277 (falling in love)
+Please, marry me
